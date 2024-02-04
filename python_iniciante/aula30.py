@@ -21,7 +21,7 @@ if velocidade_carro_passou_radar_1:
 else:
     print("O carro está dentro do limite de velocidade")
 
-if carro_multado_radar_range_99\
-    and carro_multado_radar_range_101 \
-        and velocidade_carro_passou_radar_1:
-    print("O carro foi multado pelo radar 1")
+if carro_multado_radar_range_99 and \
+    carro_multado_radar_range_101 and \
+        velocidade_carro_passou_radar_1:
+    print("multado pelo radar 1")
