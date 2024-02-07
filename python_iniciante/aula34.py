@@ -1,7 +1,8 @@
 """
 Repetições
 while (enquanto)
-Execulta uma ação enquanto uma condição for verdadeira
+Executa uma ação enquanto uma condição for verdadeira
+Loop infinito -> Quando um código não tem fim
 """
 condicao = True
 while condicao:
@@ -10,5 +11,3 @@ while condicao:
 
     if nome == 'sair':
         break
-
-print("acabou")
